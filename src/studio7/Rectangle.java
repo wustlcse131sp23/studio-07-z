@@ -50,6 +50,6 @@ public class Rectangle {
 		System.out.println(P);
 		class1.draw(0.5, 0.5);
 		System.out.println(class1.compare(0.5));
-		System.out.println(class1.is_square());
+		System.out.println(6.0/8);
 	}
 }
